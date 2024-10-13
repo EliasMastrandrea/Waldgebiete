@@ -4,6 +4,6 @@ Geoportal Berlin / Alters- und Bestandesstruktur der Wälder - Forstbetriebskart
 
 Freie und Hansestadt Hamburg, Landesbetrieb Geoinformation und Vermessung
 
-© Bundesamt für Kartographie und Geodäsie (2024), Datenquellen: https://sgx.geodatenzentrum.de/web_public/Datenquellen_TopPlus_Open.pdf
+Geoportal Bayern (BayernAtlas) / Landschaftsschutzgebiete
 
-Geoportal Bayern / Landschaftsschutzgebiete
+© Bundesamt für Kartographie und Geodäsie (2024), Datenquellen: https://sgx.geodatenzentrum.de/web_public/Datenquellen_TopPlus_Open.pdf
